@@ -1,0 +1,7 @@
+/* src/assets/index.css */
+@import "tailwindcss";
+
+:root {
+  --color-primary: #7c3aed; /* violeta */
+  --radius-card: 1rem;
+}
